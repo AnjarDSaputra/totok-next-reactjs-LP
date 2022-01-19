@@ -1,6 +1,6 @@
 import { Box } from "@material-ui/core";
 import Footer from "components/layout/Footer";
-import Header from "components/layout/Header";
+import Header from "components/layout/RAB";
 
 type Props = {
   children: React.ReactNode;
