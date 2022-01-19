@@ -25,7 +25,7 @@ export default function HomePage(): JSX.Element {
     <Page maxWidth={false}>
       <HeroSection
         title="Terapi Totok 431"
-        subtitle="Apapun Masalah Anda Insyaallah Bisa Dibantu Penyembuhannya Dengan Izin ALLOH "
+        subtitle="Tidak ada penyakit yang tidak ada obatnya, Insyaallah sembuh Dengan Izin ALLOH "
         image="/assets/totok1.svg"
       >
         {/* <Link href="/react" passHref> */}
@@ -48,18 +48,18 @@ export default function HomePage(): JSX.Element {
             icon={<Ballot />}
             content={
               <>   
-              <div>- Saraf</div>    
-                   <div>- Syaraf Tulang Belakang</div>
-                   <div>- Sakit Sendi</div>
-                   <div>- Asam Urat</div>
-                   <div>- Lambung</div>
-                   <div>- Migren</div>
-                   <div>- Fertigo</div>
-                   <div>- Lemah Jantung</div>
-                   <div>- Dada Sering Sakit</div>
-                   <div>- Asma</div>
-                   <div>- Tangan dan Kaki sakit digerakkan</div>
-                  - Ambeyen dll.
+             <div> - Saraf   </div> 
+                  <div> - Syaraf Tulang Belakang</div>
+                  <div> - Sakit Sendi</div>
+                  <div> - Asam Urat</div>
+                  <div> - Lambung</div>
+                  <div> - Migren</div>
+                  <div> - Fertigo</div>
+                  <div> - Lemah Jantung</div>
+                  <div> - Dada Sering Sakit</div>
+                  <div> - Asma</div>
+                  <div> - Tangan dan Kaki sakit digerakkan</div>
+                  <div>- Ambeyen dll.</div>
               </>
             }
           />
@@ -67,9 +67,9 @@ export default function HomePage(): JSX.Element {
             title="Jadwal Buka"
             icon={<CalendarToday />}
             content={
-              <>
-               <div>Senin, Rabo, Sabtu.</div>
-               <div> <b>TERAPY TOTOK LANGSUNG BISA DIRASAKAN PERUBAHANNYA.</b></div>
+              <>                            
+              <div> Senin, Rabo, Sabtu.</div>
+                
               </>
             }
           />
@@ -78,7 +78,7 @@ export default function HomePage(): JSX.Element {
             icon={<Business />}
             content={
               <>
-              <div>Alamat : xxxxxxxxxxxxxx</div>
+              Alamat : xxxxxxxxxxxxxx
 
               </>
             }
